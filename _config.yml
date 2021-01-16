@@ -23,9 +23,9 @@ projects:
     archived: false
     forks: false
     projects:
-     - discogs
-     - accounting
-     - personal-website
+     #- discogs
+     #- accounting
+     #- personal-website
 
 social_media:
   # behance: your_username
