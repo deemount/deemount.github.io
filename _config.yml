@@ -69,3 +69,15 @@ topics:
   - name: Ruby
     web_url: https://github.com/topics/ruby
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ruby/ruby.png
+
+  - name: Flutter
+    web_url: https://github.com/topics/flutter
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/flutter/flutter.png
+
+  - name: Docker
+    web_url: https://github.com/topics/docker
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/docker/docker.png
+
+  - name: AWS
+    web_url: https://github.com/topics/aws
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/aws/aws.png
