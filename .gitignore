@@ -1,3 +1,4 @@
+*.code-workspace
 *.gem
 .bundle
 .sass-cache

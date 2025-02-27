@@ -39,20 +39,15 @@ social_media:
   medium: salvatoregonda
   stackoverflow: 9210181
   # telegram: your_username
-  twitter: GondaSalvatore
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: http://salvatore-gonda.de
   # youtube: your_username
 
 topics:
   - name: Go
     web_url: https://github.com/topics/go
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/go/go.png
-
-  - name: Vue
-    web_url: https://github.com/topics/vue
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/vue/vue.png 
 
   - name: Rust
     web_url: https://github.com/topics/rust
@@ -65,14 +60,6 @@ topics:
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
-
-  - name: Ruby
-    web_url: https://github.com/topics/ruby
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/ruby/ruby.png
-
-  - name: Flutter
-    web_url: https://github.com/topics/flutter
-    image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png
 
   - name: Docker
     web_url: https://github.com/topics/docker
